@@ -109,7 +109,7 @@ Meta tags are HTML elements that provide metadata about a webpage. They are plac
       <del> -->  It was used to show the modification of the document the output may be the same as strikethrough but the use case is different.
       ```
    
-      - the **s** Tag specifies text that is no longer correct, accurate or relevant, 
+      - The **s** Tag specifies text that is no longer correct, accurate or relevant, 
       - The **del** Tag is used to identify text that has been deleted from a document but retained to show  the history of modification made to the document.
    - Inline Styling
       ```
@@ -398,3 +398,26 @@ to create a clear structure for assistive technologies. Ensure that your content
 remains meaningful even if CSS or other styling is disabled.
 ```
 
+
+## Iframes in HTML
+- The <iframe> HTML element represents a nested browsing context, embedding another HTML page into the current one.
+- ```
+ <iframe src="url" title = "abc"><iframe>
+ ```
+
+ - Src attribute defines the URL of the page to embed.
+ - Title = for screen readers
+
+
+## SEO
+- Search engine optimization, or SEO, is the process of improving your website so that it achieves a higher ranking in search engine SERPs, and so that more search engine users click on your website listing in the search engine results.
+- High-Quality Content: Create valuable and relevant content that addresses users' needs.
+- Keyword Research: Use relevant keywords naturally within your content.
+- Descriptive Titles: Use descriptive and relevant titles for your pages (<**title**> tag).
+- Heading Tags: Use appropriate heading tags (<**h1**>, <**h2**>, etc.) to structure content.
+- Image Alt Text: Provide descriptive alt text for images.
+- Internal Links: Use internal links to connect related content within your site.
+- External Links: Link to reputable external sources when relevant.
+- Mobile-Friendly Design: Ensure your website is responsive and mobile-friendly.
+- Site Speed: Optimize your website's loading speed for better user experience.
+ 
