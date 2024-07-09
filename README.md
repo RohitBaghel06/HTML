@@ -104,13 +104,17 @@ Meta tags are HTML elements that provide metadata about a webpage. They are plac
   
 - Text Highlighting
       ```
-      <mark> --> Highlighting of text, 
+      <mark> --> Highlighting of text,
+  
       <small> --> makes text smaller,
+  
       <del> -->  It was used to show the modification of the document the output may be the same as strikethrough but the use case is different.
       ```
+
    
       - The **s** Tag specifies text that is no longer correct, accurate or relevant, 
       - The **del** Tag is used to identify text that has been deleted from a document but retained to show  the history of modification made to the document.
+  
    - Inline Styling
       ```
       <sub>, <sup>
