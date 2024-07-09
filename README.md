@@ -75,9 +75,9 @@ for France lang = "fr"
 - commenting in HTML allows developers to leave notes about their code and its functionality or to indicate necessary changes for the future.
 
 ## Text Formatting
--Text formatting in HTML refers to the way text is displayed on a web page.
--It is the process of applying various styles, colors, fonts, sizes, and other visual enhancements to text content within an HTML document.
--HTML offers a range of tags that can be used to format text, including: Bold text: <b> or <strong>
+- Text formatting in HTML refers to the way text is displayed on a web page.
+- It is the process of applying various styles, colors, fonts, sizes, and other visual enhancements to text content within an HTML document.
+- HTML offers a range of tags that can be used to format text, including: Bold text: <b> or <strong>
 
 - Bold and Italic   
       ```
@@ -103,8 +103,8 @@ for France lang = "fr"
       <sub>, <sup>
       ```
 ## Colors
--HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
--But through html, we can use it in this way..
+- HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
+- But through html, we can use it in this way..
 ```
 <h3 style="
     text-align: center; background-color: aqua;
