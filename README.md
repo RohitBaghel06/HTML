@@ -425,3 +425,8 @@ remains meaningful even if CSS or other styling is disabled.
 - Mobile-Friendly Design: Ensure your website is responsive and mobile-friendly.
 - Site Speed: Optimize your website's loading speed for better user experience.
  
+
+## HTML HIJACKING
+- Form action hijacking vulnerabilities arise when an application places user-supplied input into the action URL of an HTML form
+- An attacker can use this vulnerability to construct a URL that, if visited by another application user, will modify the action URL of a form to point to the attacker's server.
+
