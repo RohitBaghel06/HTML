@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,4 +67,74 @@
         </tr>
     </table>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        table {
+            /* border-collapse: collapse; */
+            text-align: center;
+        }
+        td, th {
+            border: 2px solid #fff;
+            padding: 10px;
+        }
+        tr:nth-child(even) {
+            background-color: #123451;
+        }
+    </style>
+</head>
+<body>
+    <table style="width: 100%;">
+        <caption>
+            Countries with CODE and email
+        </caption>
+        <!-- this <colgroup> tag is used to combine the 2 columns...not use in today's gen -->
+        <colgroup>
+            <col span="2" style="background-color: aquamarine;" />
+        </colgroup>
+        <tr>
+            <th>Country</th>
+            <th>Country Code</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>India</td>
+            <td>IN</td>
+            <td>india@google.com</td>
+        </tr>
+        <tr>
+            <td>United States America</td>
+            <td>USA</td>
+            <td>usa@google.com</td>
+        </tr>
+        <tr>
+            <td>Japan</td>
+            <td>JP</td>
+            <td>jp@google.com</td>
+        </tr>
+        <tr>
+            <td>Germany</td>
+            <td>GM</td>
+            <td>gm@google.com</td>
+        </tr>
+    </table><br>
+    <table>
+        <tr>
+            <th colspan="2">Country</th>
+            <td>India</td>
+            <td>Japan</td>
+        </tr>
+        <tr>
+            <th>CODE</th>
+            <td>IN</td>
+            <td>JN</td>
+        </tr>
+    </table>
+</body>
+>>>>>>> 94af62aac5dc4e64cf96f51a8994bc3b1edade01
 </html>
